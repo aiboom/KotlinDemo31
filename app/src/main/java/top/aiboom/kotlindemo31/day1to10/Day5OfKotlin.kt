@@ -35,6 +35,7 @@ fun loopExample4() {
     for((index, value) in array.withIndex()){
         Log.i("HGL", "$index, $value")
     }
+
 }
 
 fun loopExample5() {
